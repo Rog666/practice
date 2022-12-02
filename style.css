@@ -10,3 +10,7 @@
 .poopy {
     color: brown;
 }
+.pic {
+    height:auto;
+    width: fit-content;
+}
