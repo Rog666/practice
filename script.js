@@ -1,0 +1,1 @@
+document.write(userName + ', this script was written in script.js file yet, used userName variable from index.html')
